@@ -27,7 +27,7 @@ export const SITE_CONTENT: SiteContent = {
     specialty: "Cybersecurity Professional",
     summary:
       "Exploring cybersecurity through hands-on research, penetration testing, and secure development.",
-    email: "example@email.com",
+    email: "work@darsh.biz",
   },
   experience: [
     {
